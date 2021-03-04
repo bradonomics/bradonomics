@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Brad
 
-<!--
-**bradonomics/bradonomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy in Alabama trying to run a [web dev shop](https://webniyom.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile) from a cattle farm. Most of what you'd want to know can be found at [bradonomics.com](https://bradonomics.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile).
 
-Here are some ideas to get you started:
+## What I'm workng on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last year I started working through [The Pragmatic Studio's](https://pragmaticstudio.com/) Ruby and Rails courses. After that I decided I'd build an Instapaper clone called Portholes. I'm now working my way through Michael Hartl's book [The Ruby on Rails Tutorial](https://www.railstutorial.org/book).
+
+If you know someone looking for a junior Ruby developer, tell them you know a guy.
+
+## Find me around the web
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/brad-west/), but the best way to keep up with what I'm doing is [my website](https://bradonomics.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile).

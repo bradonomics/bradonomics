@@ -6,7 +6,7 @@ Just a guy in Alabama trying to run a [web dev shop](https://webniyom.com/?utm_s
 
 Last year I started working through [The Pragmatic Studio's](https://pragmaticstudio.com/) Ruby and Rails courses. After that I decided I'd build an Instapaper clone called Portholes. I'm now working my way through Michael Hartl's book [The Ruby on Rails Tutorial](https://www.railstutorial.org/book).
 
-If you know someone looking for a junior Ruby developer, tell them you know a guy.
+If you know someone looking for a Ruby on Rails developer, tell them you know a guy.
 
 ## Find me around the web
 

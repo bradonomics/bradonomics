@@ -1,6 +1,6 @@
 # About Brad
 
-Just a guy in Alabama trying to run a [web dev shop](https://webniyom.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile) from a cattle farm. Most of what you'd want to know can be found at [bradonomics.com](https://bradonomics.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile).
+Just a guy in Alabama trying to build software from a cattle farm. Most of what you'd want to know can be found at [bradonomics.com](https://bradonomics.com/?utm_source=GitHub&utm_medium=social&utm_campaign=brad_github_profile).
 
 ## What I'm workng on
 
